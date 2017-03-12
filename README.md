@@ -1,1 +1,1 @@
-# TCP-ACK-NACK-in-Java
+This is a java program to send ack and nack through a TCP connection. You can make server and client and client can send packets to server and server can send also. If a packets successfully recieved then ACK will be send and the next packet will be proceed otherwise NACK will be sent. 
